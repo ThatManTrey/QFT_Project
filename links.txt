@@ -1,0 +1,6 @@
+https://en.wikipedia.org/wiki/Quantum_Fourier_transform
+https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/8f101da9d14cfeec83df9e42a70562bf/c4x/BerkeleyX/CS-191x/asset/chap5.pdf
+https://quantumcomputinguk.org/tutorials/quantum-fourier-transform-in-qiskit
+https://qiskit.org/textbook/ch-algorithms/quantum-fourier-transform.html
+https://medium.com/@faraimazhandu/quantum-computing-basics-7133012e1c37
+https://lpsa.swarthmore.edu/Fourier/Xforms/FXformIntro.html 
