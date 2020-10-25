@@ -1,0 +1,19 @@
+Here's what I learned:
+Periodic waves can be represented as a sum of sinusoids
+Using this, we can transform a function of time into
+	a function of coefficients for a wave and vice versa
+A discrete fourier series is comprised of individual "samples"
+	of a continuous wave
+Thus, discrete fourier transforms can be used on bits
+Regular FTs have O(n^2), FFTs have O(nlogn), and QFTs have O(log^2n)
+By reading classical bits as qubits (quantum bits),
+	we can use QFTs on sets of classical bit data
+We draw up quantum circuits using a variety of gates
+	inherent to quantum computing,
+	such as Hadamard gates, swaps, etc.
+Quantum computing is probablistic, so any transform must
+	analyze output distributions
+	based on multiple "shots"/samples
+"Noise" will be transmitted with a QFT because of this
+Thus, audio generation and analysis will not be pure
+	or at least as pure as FTs in the classical sphere
