@@ -4,3 +4,10 @@ https://quantumcomputinguk.org/tutorials/quantum-fourier-transform-in-qiskit
 https://qiskit.org/textbook/ch-algorithms/quantum-fourier-transform.html
 https://medium.com/@faraimazhandu/quantum-computing-basics-7133012e1c37
 https://lpsa.swarthmore.edu/Fourier/Xforms/FXformIntro.html 
+
+Trey's Stuff
+https://sarangzambare.github.io/jekyll/update/2020/06/13/quantum-frequencies.html
+https://www.audiocheck.net/audiofrequencysignalgenerator_sinetone.php
+
+Emily's Stuff
+https://github.com/Cortexelus/qubit-audio-synthesis/blob/master/qubit%20audio%20synthesis.ipynb
